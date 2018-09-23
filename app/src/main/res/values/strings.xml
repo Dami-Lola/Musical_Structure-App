@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play</string>
+    <string name="memo">For the Love of Music...</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="songs">Songs</string>
+    <string name="genres">Genres</string>
+    <string name="banner1">Banner1</string>
+    <string name="versaceontheFloor">Versace on the Floor</string>
+</resources>
